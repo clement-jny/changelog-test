@@ -1,0 +1,17 @@
+[changelog]
+header = "## Changelog\n"
+body = """
+{% for version in versions %}
+### {{ version.version }} - {{ version.date }}
+{% for group, commits in version.groups %}
+#### {{ group }}
+{% for commit in commits %}
+- {{ commit.message | upper_first }}
+{% endfor %}
+{% endfor %}
+{% endfor %}
+"""
+
+[git]
+conventional_commits = true
+filter_unconventional = true
