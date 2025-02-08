@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Documentation
 
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 
 ### Maintenance
 
@@ -17,6 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
+- New zz file
+- Update b
+- Update a
 - Deleted d file
 
 ## [0.15.0] - 2025-02-08
