@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Fixed
+
+- *(wf:release)* Get version of tag
+
+## [0.6.0] - 2025-02-08
+
 ### Changed
 
 - *(wf:release)* Clean code & separate jobs
@@ -15,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - *(git-cliff)* Support maj/min in word
 - *(git-cliff)* Update config
 - *(ci)* Use config file
+
+### Documentation
+
+- *(changelog)* Update CHANGELOG
 
 ## [0.5.0] - 2025-02-08
 
@@ -80,7 +90,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Remove file
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..HEAD
+[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..HEAD
+[0.6.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..v0.6.0
 [0.5.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.4.0..v0.5.0
 [0.4.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.3.0..v0.4.0
 [0.3.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.2.0..v0.3.0
