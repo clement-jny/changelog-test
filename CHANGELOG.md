@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
+- *(wf:release)* Clean code & separate jobs
+- *(wf:changelog)* Clean code & beautify
 - *(git-cliff)* Add link to  check commits on very first tag
 - *(git-cliff)* Support maj/min in word
 - *(git-cliff)* Update config
