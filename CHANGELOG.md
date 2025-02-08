@@ -16,10 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Release
 
 ### Other
 
+- *(other)* Merge pull request #2 from clement-jny/fix/merge
+- *(other)* Update
 - *(other)* Update config cliff
 
 ## [0.17.0] - 2025-02-08
