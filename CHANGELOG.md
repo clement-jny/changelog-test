@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+
+- Try new
+
+### Documentation
+
+- *(changelog)* Update CHANGELOG in Auto Changelog
+
 ### Other
 
 - Update for v0.16.0 to come
