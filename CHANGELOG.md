@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Testing
+
+- *(wf:release)* Re-generate changelog when a new tag is pushed to update changelog
+
+## [0.7.0] - 2025-02-08
+
+### Documentation
+
+- *(changelog)* Update CHANGELOG
+
 ### Fixed
 
 - *(wf:release)* Get version of tag
@@ -90,7 +100,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Remove file
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..HEAD
+[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.7.0..HEAD
+[0.7.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..v0.7.0
 [0.6.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..v0.6.0
 [0.5.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.4.0..v0.5.0
 [0.4.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.3.0..v0.4.0
