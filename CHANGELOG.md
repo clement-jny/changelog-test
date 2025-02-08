@@ -9,6 +9,11 @@ All notable changes to this project will be documented in this file.
 - Git-cliff actions
 - Config cliff & comment
 - Update workflow
+- New workflow
+
+### 🐛 Bug Fixes
+
+- Clean project
 
 ### ⚙️ Miscellaneous Tasks
 
