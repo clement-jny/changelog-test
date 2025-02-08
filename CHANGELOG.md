@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Documentation
+
+- *(changelog)* Update CHANGELOG
+
+### Other
+
+- New modif
+
 ### Testing
 
 - Try
@@ -46,6 +54,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - *(changelog)* Update CHANGELOG
 
+### Other
+
+- Merge pull request #1 from clement-jny/feat/msg-changelog-update
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+
 ## [0.5.0] - 2025-02-08
 
 ### Changed
@@ -55,6 +70,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Fixed
 
 - Fix c
+
+### Other
+
+- Update
+- Update
+- Update ChangeLog
+- Delete d
 
 ## [0.4.0] - 2025-02-08
 
@@ -79,17 +101,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Opti b
 
+### Other
+
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+
 ## [0.3.0] - 2025-02-08
 
 ### Added
 
 - New config
 
+### Other
+
+- Update ChangeLog
+
 ## [0.2.0] - 2025-02-08
 
 ### Added
 
 - New file
+
+### Other
+
+- Update ChangeLog
+- Update ChangeLog
 
 ## [0.1.0] - 2025-02-08
 
@@ -109,6 +150,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Maintenance
 
 - Remove file
+
+### Other
+
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Update ChangeLog
+- Initial commit
 
 [unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.8.0..HEAD
 [0.8.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.7.0..v0.8.0
