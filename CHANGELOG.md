@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
+- *(git-cliff)* Add link to  check commits on very first tag
+- *(git-cliff)* Support maj/min in word
 - *(git-cliff)* Update config
 - *(ci)* Use config file
 
@@ -81,4 +83,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 [0.4.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.3.0..v0.4.0
 [0.3.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.2.0..v0.3.0
 [0.2.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.1.0..v0.2.0
+[0.1.0]: https://github.com/clement-jny/changelog-test-2/releases/tag/v0.1.0
 
