@@ -28,11 +28,11 @@ jobs:
           OUTPUT: CHANGES.md
           GITHUB_REPO: ${{ github.repository }}
 
-      # use release body in the same job
-      - name: Upload the binary releases
-        uses: svenstaro/upload-release-action@v2
+      - name: Create release
+        uses: softprops/action-gh-release@v2
         with:
-          file: binary_release.zip
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          tag: ${{ github.ref }}
+          name: Release ${{ github.ref }}
+          tag_name: ${{ github.ref }}
           body: ${{ steps.git-cliff.outputs.content }}
+          draft: false
+          prerelease: false
