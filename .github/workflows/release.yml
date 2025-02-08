@@ -25,8 +25,9 @@ jobs:
         uses: orhun/git-cliff-action@v4
         id: git-cliff
         with:
-          config: config-cliff.toml
-          args: -vv --latest --strip header
+          #   config: config-cliff.toml
+          config: config-off.toml
+          args: --verbose --latest --strip header
         env:
           OUTPUT: CHANGES.md
           GITHUB_REPO: ${{ github.repository }}
