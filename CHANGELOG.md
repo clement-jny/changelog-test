@@ -7,12 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Maintenance
+
+- Update c file
+
+## [0.15.0] - 2025-02-08
+
 ### Changed
 
 - *(b)* Update b
 
 ### Documentation
 
+- *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Release
 
@@ -228,7 +235,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Update ChangeLog
 - Initial commit
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.14.0..HEAD
+[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.15.0..HEAD
+[0.15.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.14.0..v0.15.0
 [0.14.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.13.0..v0.14.0
 [0.13.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.12.0..v0.13.0
 [0.12.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.11.0..v0.12.0
