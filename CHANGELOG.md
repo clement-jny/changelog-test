@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Opti b
+- Update a & b
+- New file
+- Update ChangeLog
 - Update ChangeLog
 
 ### Fixed
