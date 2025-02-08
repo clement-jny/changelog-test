@@ -4,9 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
-### 🐛 Bug Fixes
+### 🚀 Features
 
-- Update
+- New file
 
 ## [0.1.0] - 2025-02-08
 
@@ -21,6 +21,7 @@ All notable changes to this project will be documented in this file.
 
 - Clean project
 - Problem
+- Update
 
 ### ⚙️ Miscellaneous Tasks
 
