@@ -7,21 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+
+- *(git-cliff)* Remove release group
+
 ### Documentation
 
 - *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
+- *(changelog)* Update CHANGELOG
+
+### Maintenance
+
+- Delete tag wf
 
 ### Other
 
-- New modif
-
-### Release
-
 - V0.9.0
+- New modif
 
 ### Testing
 
+- *(wf)* Switch to main
 - Try
 
 ## [0.8.0] - 2025-02-08
