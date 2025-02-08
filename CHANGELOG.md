@@ -17,11 +17,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Release
 
 ### Other
 
-- *(other)* Merge pull request #2 from clement-jny/fix/merge
+- *(other)* Update config
 - *(other)* Update
 - *(other)* Update config cliff
 
@@ -180,7 +181,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- *(other)* Merge pull request #1 from clement-jny/feat/msg-changelog-update
 - *(other)* Update ChangeLog
 - *(other)* Update ChangeLog
 - *(other)* Update ChangeLog
