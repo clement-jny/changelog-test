@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
-- Use config file
+- *(git-cliff)* Update config
+- *(ci)* Use config file
 
 ## [0.5.0] - 2025-02-08
 
