@@ -1,10 +1,10 @@
-name: Release
+name: 🚀 Auto Release
 
 on:
   push:
     tags:
       - '*'
-  workflow_dispatch: # Permet de le lancer manuellement aussi
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,8 +13,10 @@ jobs:
   changelog:
     name: Generate changelog
     runs-on: ubuntu-latest
+
     outputs:
       release_body: ${{ steps.git-cliff.outputs.content }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,11 +33,19 @@ jobs:
           OUTPUT: CHANGES.md
           GITHUB_REPO: ${{ github.repository }}
 
+  release:
+    name: Create & upload a release
+    needs: changelog
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
           name: Release ${{ steps.git-cliff.outputs.version }}
           tag_name: ${{ github.ref }}
-          body: ${{ steps.git-cliff.outputs.content }}
+          body: ${{ needs.changelog.outputs.release_body }}
           draft: false
           prerelease: false
+        #   files: |
+        #     build/*
