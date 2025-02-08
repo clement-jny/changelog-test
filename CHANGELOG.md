@@ -5,15 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [0.9.0] - 2025-02-08
 
 ### Documentation
 
+- *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
 
 ### Other
 
 - New modif
+
+### Release
+
+- V0.9.0
 
 ### Testing
 
@@ -159,13 +164,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Update ChangeLog
 - Initial commit
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.8.0..HEAD
-[0.8.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.7.0..v0.8.0
-[0.7.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..v0.7.0
-[0.6.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..v0.6.0
-[0.5.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.4.0..v0.5.0
-[0.4.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.3.0..v0.4.0
-[0.3.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.2.0..v0.3.0
-[0.2.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.1.0..v0.2.0
-[0.1.0]: https://github.com/clement-jny/changelog-test-2/releases/tag/v0.1.0
+[0.9.0]: https://github.com///compare/v0.8.0..v0.9.0
+[0.8.0]: https://github.com///compare/v0.7.0..v0.8.0
+[0.7.0]: https://github.com///compare/v0.6.0..v0.7.0
+[0.6.0]: https://github.com///compare/v0.5.0..v0.6.0
+[0.5.0]: https://github.com///compare/v0.4.0..v0.5.0
+[0.4.0]: https://github.com///compare/v0.3.0..v0.4.0
+[0.3.0]: https://github.com///compare/v0.2.0..v0.3.0
+[0.2.0]: https://github.com///compare/v0.1.0..v0.2.0
+[0.1.0]: https://github.com///releases/tag/v0.1.0
 
