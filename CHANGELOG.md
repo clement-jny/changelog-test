@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [0.11.0] - 2025-02-08
 
 ### Changed
 
@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Documentation
 
+- *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
@@ -173,7 +174,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Update ChangeLog
 - Initial commit
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.8.0..HEAD
+[0.11.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.8.0..v0.11.0
 [0.8.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.7.0..v0.8.0
 [0.7.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..v0.7.0
 [0.6.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..v0.6.0
