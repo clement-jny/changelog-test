@@ -15,7 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Documentation
 
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Release
+
+### Other
+
+- *(other)* Update config cliff
 
 ## [0.17.0] - 2025-02-08
 
@@ -30,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update for v0.16.0 to come
+- *(other)* Update for v0.16.0 to come
 
 ## [0.16.0] - 2025-02-08
 
@@ -46,10 +51,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- New zz file
-- Update b
-- Update a
-- Deleted d file
+- *(other)* New zz file
+- *(other)* Update b
+- *(other)* Update a
+- *(other)* Deleted d file
 
 ## [0.15.0] - 2025-02-08
 
@@ -65,7 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Comment generate changelog
+- *(other)* Comment generate changelog
 
 ## [0.14.0] - 2025-02-08
 
@@ -82,7 +87,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- U
+- *(other)* U
 
 ## [0.13.0] - 2025-02-08
 
@@ -126,9 +131,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update
-- V0.9.0
-- New modif
+- *(other)* Update
+- *(other)* V0.9.0
+- *(other)* New modif
 
 ### Testing
 
@@ -172,10 +177,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Merge pull request #1 from clement-jny/feat/msg-changelog-update
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
+- *(other)* Merge pull request #1 from clement-jny/feat/msg-changelog-update
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
 
 ## [0.5.0] - 2025-02-08
 
@@ -189,10 +194,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update
-- Update
-- Update ChangeLog
-- Delete d
+- *(other)* Update
+- *(other)* Update
+- *(other)* Update ChangeLog
+- *(other)* Delete d
 
 ## [0.4.0] - 2025-02-08
 
@@ -219,13 +224,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
 
 ## [0.3.0] - 2025-02-08
 
@@ -235,7 +240,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update ChangeLog
+- *(other)* Update ChangeLog
 
 ## [0.2.0] - 2025-02-08
 
@@ -245,8 +250,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update ChangeLog
-- Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
 
 ## [0.1.0] - 2025-02-08
 
@@ -269,26 +274,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Update ChangeLog
-- Initial commit
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Update ChangeLog
+- *(other)* Initial commit
 
-[unreleased]: https://github.com/clement-jny/changelog-test-2/compare/v0.17.0..HEAD
-[0.17.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.16.0..v0.17.0
-[0.16.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.15.0..v0.16.0
-[0.15.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.14.0..v0.15.0
-[0.14.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.13.0..v0.14.0
-[0.13.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.12.0..v0.13.0
-[0.12.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.11.0..v0.12.0
-[0.11.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.8.0..v0.11.0
-[0.8.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.7.0..v0.8.0
-[0.7.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.6.0..v0.7.0
-[0.6.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.5.0..v0.6.0
-[0.5.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.4.0..v0.5.0
-[0.4.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.3.0..v0.4.0
-[0.3.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.2.0..v0.3.0
-[0.2.0]: https://github.com/clement-jny/changelog-test-2/compare/v0.1.0..v0.2.0
-[0.1.0]: https://github.com/clement-jny/changelog-test-2/releases/tag/v0.1.0
+[unreleased]: https://github.com/clement-jny/changelog-test/compare/v0.17.0..HEAD
+[0.17.0]: https://github.com/clement-jny/changelog-test/compare/v0.16.0..v0.17.0
+[0.16.0]: https://github.com/clement-jny/changelog-test/compare/v0.15.0..v0.16.0
+[0.15.0]: https://github.com/clement-jny/changelog-test/compare/v0.14.0..v0.15.0
+[0.14.0]: https://github.com/clement-jny/changelog-test/compare/v0.13.0..v0.14.0
+[0.13.0]: https://github.com/clement-jny/changelog-test/compare/v0.12.0..v0.13.0
+[0.12.0]: https://github.com/clement-jny/changelog-test/compare/v0.11.0..v0.12.0
+[0.11.0]: https://github.com/clement-jny/changelog-test/compare/v0.8.0..v0.11.0
+[0.8.0]: https://github.com/clement-jny/changelog-test/compare/v0.7.0..v0.8.0
+[0.7.0]: https://github.com/clement-jny/changelog-test/compare/v0.6.0..v0.7.0
+[0.6.0]: https://github.com/clement-jny/changelog-test/compare/v0.5.0..v0.6.0
+[0.5.0]: https://github.com/clement-jny/changelog-test/compare/v0.4.0..v0.5.0
+[0.4.0]: https://github.com/clement-jny/changelog-test/compare/v0.3.0..v0.4.0
+[0.3.0]: https://github.com/clement-jny/changelog-test/compare/v0.2.0..v0.3.0
+[0.2.0]: https://github.com/clement-jny/changelog-test/compare/v0.1.0..v0.2.0
+[0.1.0]: https://github.com/clement-jny/changelog-test/releases/tag/v0.1.0
 
