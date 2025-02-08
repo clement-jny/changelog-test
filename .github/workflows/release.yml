@@ -14,19 +14,15 @@ jobs:
     name: Generate changelog
     runs-on: ubuntu-latest
 
-    outputs:
-      release_body: ${{ steps.git-cliff.outputs.content }}
-      version: ${{ steps.git-cliff.outputs.version }}
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Update changelog
+      - name: Generate a changelog
         uses: orhun/git-cliff-action@v4
-        id: git-cliff-1
+        id: git-cliff-generate
         with:
           config: config-cliff.toml
           args: --verbose
@@ -41,6 +37,20 @@ jobs:
           git commit -m "docs(changelog): update CHANGELOG"
           git push
 
+  release_notes:
+    name: Generate release notes
+    runs-on: ubuntu-latest
+
+    outputs:
+      release_body: ${{ steps.git-cliff.outputs.content }}
+      version: ${{ steps.git-cliff.outputs.version }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate a changelog
         uses: orhun/git-cliff-action@v4
         id: git-cliff
@@ -53,16 +63,16 @@ jobs:
 
   release:
     name: Create & upload a release
-    needs: changelog
+    needs: release_notes
     runs-on: ubuntu-latest
 
     steps:
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
-          name: Release ${{ needs.changelog.outputs.version }}
+          name: Release ${{ needs.release_notes.outputs.version }}
           tag_name: ${{ github.ref }}
-          body: ${{ needs.changelog.outputs.release_body }}
+          body: ${{ needs.release_notes.outputs.release_body }}
           draft: false
           prerelease: false
         #   files: |
