@@ -7,9 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Documentation
+
+- *(changelog)* Update CHANGELOG in Auto Changelog
+
 ### Maintenance
 
 - Update c file
+
+### Other
+
+- Deleted d file
 
 ## [0.15.0] - 2025-02-08
 
