@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
 - *(changelog)* Update CHANGELOG
+- *(changelog)* Update CHANGELOG
 
 ### Maintenance
 
@@ -23,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Other
 
+- Update
 - V0.9.0
 - New modif
 
